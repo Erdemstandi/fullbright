@@ -1,21 +1,23 @@
-# 🔦 Fullbright Mod for Minecraft 1.21.x
-*Press B to toggle - No cheats, client-side only*
+## **Fullbright**
+**What does it do?** Tired of being blind in dark? Fullbright instantly lights up your entire world without any cheats
 
-## ✨ Features
-- **B Key Toggle** - Simple On/Off
-- **Client-Side** - Works anywhere, no OP required  
-- **Night Vision Effect** - Better than gamma hacking
-- **Action Bar Notifications** - Clean UI
-- **Permanent Effect** - No annoying timeouts
+[![Available for Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)](https://modrinth.com/mod/fullb/versions?l=fabric)
+[![Available for Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg)](https://modrinth.com/mod/fullb/versions?l=forge)
 
-## 🚀 Installation
-1. Install **Fabric Loader 0.15.11+**
-2. Download `fullbright-1.0.0.jar`
-3. Place in `.minecraft/mods/` folder
-4. Launch Minecraft 1.21.4
+***
 
-## 🎮 Usage
-- Press **B** to toggle Fullbright On/Off
-- See action bar for status
-- Works in Singleplayer & Multiplayer
+**How does it work?** Simply press the key **B** to toggle Fullbright on or off.
 
+**Features**
+
+*    True brightness — see in complete darkness
+*    Completely silent — no particles or HUD icon
+*    Lightweight — zero performance kill
+*    Client-side only — works on any server
+*    Simple toggle — press B anytime to enable or disable
+*    Changeable key — change the toggle key according to your choice
+*    Language support — understandable in multiple languages
+  
+***
+
+Note: most of these features are set by the current version, old versions may not contain them
